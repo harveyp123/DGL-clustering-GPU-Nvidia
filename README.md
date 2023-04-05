@@ -73,7 +73,7 @@ pip install torch-spline-conv -f https://data.pyg.org/whl/torch-1.12.1+cu116.htm
 pip install torch-geometric
 ```
 
-#### 2.5 Install the dgl an tensorflow:
+#### 2.5 Install the dgl and tensorflow:
 ```bash
 conda install -c "dglteam/label/cu116" dgl
 pip install tensorflow==2.12.*
