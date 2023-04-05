@@ -84,3 +84,11 @@ pip install tensorflow==2.12.*
 python GNN_partition_dgl.py
 ```
 The code will create a ```test``` folder to contain the partitioned graph output. 
+
+### 4. Run the GCoD code: 
+Reference: https://github.com/GATECH-EIC/GCoD
+Some minor package compatibility issues are fixed. 
+```bash
+cd GCoD
+bash GCN_cora.sh
+```
