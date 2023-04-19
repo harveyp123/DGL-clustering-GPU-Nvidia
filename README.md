@@ -92,3 +92,7 @@ Some minor package compatibility issues are fixed.
 cd GCoD
 bash GCN_cora.sh
 ```
+
+### 5. Run the pyg example:
+2-layer GCN on Cora, Citeseer and PubMed datasets
+Reference: https://github.com/pyg-team/pytorch_geometric/blob/master/examples/gcn.py
