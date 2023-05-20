@@ -2,7 +2,7 @@
 An example for DGL cluster/subgraph manipulation
 
 ### 1. Download and install the CUDA 11.6 environment, add the environment to path
-#### 1.1. Download the cuda 11.6 library, you can refer to https://developer.nvidia.com/cuda-toolkit-archive, refer to "runfile (local)" for download link
+#### 1.1. Download the cuda 11.6 library, you can refer to https://developer.nvidia.com/cuda-toolkit-archive, my system is x86_64, Ubuntu 18.04, refer to "runfile (local)" for download link
 ```bash
 mkdir cuda_install
 cd cuda_install
